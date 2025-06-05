@@ -30,7 +30,7 @@ const NavBar = ({ onClick }) => {
     <>
       <Navbar expand="lg" className="bg-body-tertiary">
         <Container className="px-2 d-flex justify-content-between">
-          <Navbar.Brand href="/">
+          <Navbar.Brand href="/sa-virtual/home">
             <SAAVLogo width="100" height="100" className=""/>
           </Navbar.Brand>
           <CiMenuBurger onClick={handleShow} className="CiMenuBurger mx-3" />
