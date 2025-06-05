@@ -26,6 +26,7 @@ const NavBar = ({ onClick }) => {
     { path: "/sa-virtual/ranks", title: "Ranks" },
     { path: "#", title: "Crew Center" },
   ];
+
   return (
     <>
       <Navbar expand="lg" className="bg-body-tertiary">
