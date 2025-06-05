@@ -1,0 +1,38 @@
+.staff__crew__p{
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.staff__p{
+    display: flex;
+    justify-content: center;
+}
+
+.staff-pfp{
+    width: 25%;
+}
+
+.staff__crew{
+    margin-top: 3em;
+}
+
+@media (width > 600px) {
+    .staff-pfp{
+        width: 15%;
+    }
+
+    .staff__crew__p{
+        font-size: 17px;
+      
+    }
+}
+
+@media (width > 800px) {
+    .staff-pfp{
+        width: 10%;
+    }
+
+    .staff__crew__p{
+        margin-inline: 10em;
+    }
+}

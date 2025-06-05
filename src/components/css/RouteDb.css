@@ -1,0 +1,30 @@
+.airtable-embed{
+    width: 100%;
+    height: 50vh;
+    background: transparent;
+    border: solid 0.1em black;
+    border-radius: 0.5em;
+}
+
+.airtable-logo{
+    width: 100%;
+    height: 5vh;
+}
+
+@media (width > 600px ){
+    .route__description{
+        margin-inline: 5em;
+        font-size: 1.2em;
+    }
+
+    .airtable-embed{
+        width: 70%;
+    }
+}
+
+@media (width > 800px ){
+    .route__description{
+        margin-inline: 7em;
+    }
+
+}

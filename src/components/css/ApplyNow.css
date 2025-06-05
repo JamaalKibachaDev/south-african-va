@@ -1,0 +1,24 @@
+.list-group{
+    box-shadow: 2px 2px 4px;
+}
+
+
+
+@media (width > 750px ){
+
+    .apply__p{
+        font-size: 1.2em;
+        margin-inline:6em;
+    }
+
+    .apply__h2{
+        margin-inline:6em;
+    }
+    .list-group{
+      margin-inline: 10em;
+    }
+
+    .apply__a{
+        font-size: larger;
+    }
+}

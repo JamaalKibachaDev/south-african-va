@@ -1,0 +1,18 @@
+* {
+    font-family: Familjen Grotesk, sans-serif;
+  }
+
+.app-main{
+  background-color: rgb(255, 255, 255);
+}
+  
+  .accordion{
+    --bs-accordion-btn-bg: white;
+    --bs-accordion-active-bg: rgb(211, 211, 211);
+  }
+
+  .scroll__btn {
+  position: absolute;
+  top: 50%;
+  left: 5%;
+}

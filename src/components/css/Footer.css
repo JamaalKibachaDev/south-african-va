@@ -1,0 +1,6 @@
+@media (width > 700px ){
+    .footer__desc{
+        margin-inline: 4em;
+        font-style: oblique;
+    }
+}

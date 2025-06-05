@@ -1,0 +1,22 @@
+.ranks__img{
+    width: 100%;
+    border-radius: 0.5em;
+    transition: 0.3s;
+}
+
+
+.ranks__img:hover{
+    transform: scale(1.03);
+}
+
+
+@media (width > 800px ){
+    .ranks__img{
+        padding: 1em;
+
+    }
+    .ranks__data{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+}

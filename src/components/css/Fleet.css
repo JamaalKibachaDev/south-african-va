@@ -1,0 +1,30 @@
+
+.fleet__img{
+    width: 100%;
+}
+
+.fleet__ul{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.fleet__li{
+    margin: 0.8em;
+}
+
+@media (width > 700px) {
+
+    .fleet__img__container{
+        margin-inline: 5em;
+    }
+    .accordion__fleet{
+        display: flex;
+        align-items: center;
+    }
+
+    .fleet__ul{
+        font-size: 1.2em;
+        margin-right: 1em;
+    }
+
+}

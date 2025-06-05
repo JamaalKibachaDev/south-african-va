@@ -1,0 +1,44 @@
+
+.info-card {
+  box-shadow: -1px 1px 5px;
+}
+
+.header__h3{
+  font-size: 1.6rem;
+}
+
+.accordion__desc{
+  font-weight: 800;
+}
+
+
+
+@media (width > 900px ) {
+  .landing__carousel{
+    display: none;
+  }
+
+  .header__h3{
+    font-size: 2.6rem;
+  }
+
+  .card__container,  .accordion__container{
+    margin-inline: 10em;
+
+  }
+
+ 
+}
+
+@media (width > 1000px ) {
+  .landing__carousel{
+    display: none;
+  }
+
+  .header__h3{
+    font-size: 2.6rem;
+  }
+  .card__container{
+    margin-inline: 15em;
+  }
+}
