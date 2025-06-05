@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/south-african-va/static/css/main.d120af13.css",
+    "main.js": "/south-african-va/static/js/main.50ef4a44.js",
+    "static/js/453.fc3918ac.chunk.js": "/south-african-va/static/js/453.fc3918ac.chunk.js",
+    "static/media/saav-a346.jpg": "/south-african-va/static/media/saav-a346.bf35232098af8e73fc26.jpg",
+    "static/media/saav-b742.jpg": "/south-african-va/static/media/saav-b742.74c5c31f9da9c1c345f4.jpg",
+    "static/media/a330-fleet.jpg": "/south-african-va/static/media/a330-fleet.85b734cd6f517c91bb94.jpg",
+    "static/media/saav-dash8.jpg": "/south-african-va/static/media/saav-dash8.fbaa6ee7e07722eb61f7.jpg",
+    "static/media/saav-crj700.jpg": "/south-african-va/static/media/saav-crj700.0e44b4bf66db42ee59a2.jpg",
+    "static/media/saav-crj-200.jpg": "/south-african-va/static/media/saav-crj-200.a5e2d67601725f9cbc5c.jpg",
+    "static/media/saav-q400-tail.jpg": "/south-african-va/static/media/saav-q400-tail.efa51d2952d62116e9e9.jpg",
+    "static/media/crj-700.jpg": "/south-african-va/static/media/crj-700.c57a70d35765c3def6b3.jpg",
+    "static/media/saav-a319.jpeg": "/south-african-va/static/media/saav-a319.19cb850fc957cf5498e9.jpeg",
+    "static/media/saav-b738.jpeg": "/south-african-va/static/media/saav-b738.4b966ca978957fcb1148.jpeg",
+    "static/media/trainee__rank.jpg": "/south-african-va/static/media/trainee__rank.5e7da2531e1f08ad335f.jpg",
+    "static/media/captain__rank.jpg": "/south-african-va/static/media/captain__rank.9ebc062b0fa2d9916c10.jpg",
+    "static/media/fo__rank.jpg": "/south-african-va/static/media/fo__rank.4897a514a8a2b7341b40.jpg",
+    "static/media/senior__pilot_rank.jpg": "/south-african-va/static/media/senior__pilot_rank.4b3e6cdfcd3f050f5489.jpg",
+    "static/media/saav-a350.jpeg": "/south-african-va/static/media/saav-a350.293e167f259865d61cda.jpeg",
+    "static/media/saav-a320.jpeg": "/south-african-va/static/media/saav-a320.51c33413413d532fa059.jpeg",
+    "static/media/lufthansa1-pfp.jpeg": "/south-african-va/static/media/lufthansa1-pfp.9f9d5af90fb0c2089ef3.jpeg",
+    "static/media/josiah-dennis-pfp.jpeg": "/south-african-va/static/media/josiah-dennis-pfp.de7dcc99fceba5cea0c7.jpeg",
+    "static/media/Airtable_Logo.svg": "/south-african-va/static/media/Airtable_Logo.3a67ff0c1396b5844d70b7d9d965ebec.svg",
+    "index.html": "/south-african-va/index.html",
+    "static/media/saav.svg": "/south-african-va/static/media/saav.2c97037bca25c6abed7d4f7d4205e270.svg",
+    "main.d120af13.css.map": "/south-african-va/static/css/main.d120af13.css.map",
+    "main.50ef4a44.js.map": "/south-african-va/static/js/main.50ef4a44.js.map",
+    "453.fc3918ac.chunk.js.map": "/south-african-va/static/js/453.fc3918ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d120af13.css",
+    "static/js/main.50ef4a44.js"
+  ]
+}
