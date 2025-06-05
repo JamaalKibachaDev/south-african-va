@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/south-african-va/static/css/main.d120af13.css",
-    "main.js": "/south-african-va/static/js/main.3127b8c8.js",
+    "main.js": "/south-african-va/static/js/main.38e45ca8.js",
     "static/js/453.fc3918ac.chunk.js": "/south-african-va/static/js/453.fc3918ac.chunk.js",
     "static/media/saav-a346.jpg": "/south-african-va/static/media/saav-a346.bf35232098af8e73fc26.jpg",
     "static/media/saav-b742.jpg": "/south-african-va/static/media/saav-b742.74c5c31f9da9c1c345f4.jpg",
@@ -25,11 +25,11 @@
     "index.html": "/south-african-va/index.html",
     "static/media/saav.svg": "/south-african-va/static/media/saav.2c97037bca25c6abed7d4f7d4205e270.svg",
     "main.d120af13.css.map": "/south-african-va/static/css/main.d120af13.css.map",
-    "main.3127b8c8.js.map": "/south-african-va/static/js/main.3127b8c8.js.map",
+    "main.38e45ca8.js.map": "/south-african-va/static/js/main.38e45ca8.js.map",
     "453.fc3918ac.chunk.js.map": "/south-african-va/static/js/453.fc3918ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d120af13.css",
-    "static/js/main.3127b8c8.js"
+    "static/js/main.38e45ca8.js"
   ]
 }
